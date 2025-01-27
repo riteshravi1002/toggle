@@ -103,6 +103,6 @@ Special thanks to the open-source community for inspiring this project.
 
 ### 📬 Contact
 For any inquiries or suggestions, reach out to us:
-- **Email**: your.email@example.com
-- **GitHub**: [YourUsername](https://github.com/your-username)
+- **Email**: your.riteshravi1002@gmail.com
+- **GitHub**: [riteshravi1002](https://github.com/riteshravi1002)
 
